@@ -1,0 +1,72 @@
+{
+    "notifications": {
+        "success": {
+            "repaired": "车辆已修复！",
+            "paid": "你已从银行账户支付 $%s"
+        },
+        "error": {
+            "money": "你的钱不够！",
+            "alreadyInstalled": "你已经安装了此改装件"
+        },
+        "props": {
+            "installTitle": "改装"
+        }
+    },
+    "dragCam": {
+        "zoomIn": "放大视角",
+        "zoomOut": "缩小视角",
+        "toggleDoors": "开关车门",
+        "changeView": "切换第一人称视角"
+    },
+    "textUI": {
+        "tune":  "按 [E] 调校你的车辆"
+    },
+    "menus": {
+        "main": {
+            "title": "爆米花改装店",
+            "repair": "维修",
+            "performance": "性能改装",
+            "parts": "外观 - 部件",
+            "colors": "外观 - 颜色",
+            "extras": "额外选项"
+        },
+        "colors": {
+            "primary": "喷涂主色",
+            "secondary": "喷涂副色",
+            "neon": "霓虹灯",
+            "cosmetics_colors": "外观 - 颜色"
+        },
+        "neon": {
+            "title": "霓虹灯",
+            "neon": "霓虹灯 %s%s",
+            "color": "霓虹灯颜色",
+            "installed": "已安装 %s 霓虹灯"
+        },
+        "paint": {
+            "title": "外观 - 颜色",
+            "primary": "主色喷漆",
+            "secondary": "副色喷漆"
+        },
+        "parts": {
+            "title": "外观 - 部件",
+            "wheels": "车轮"
+        },
+        "performance": {
+            "title": "性能改装",
+            "turbo": "涡轮增压器"
+        },
+        "wheels": {
+            "title": "车轮",
+            "bikeRear": "摩托车后轮",
+            "installed": "已安装 %s %s"
+        },
+        "options": {
+            "interior": "内饰",
+            "livery": "涂装",
+            "pearlescent": "珠光漆",
+            "plateIndex": {
+                // 此处你提供的原文未结束，可补充完整后让我继续翻译
+            }
+        }
+    }
+}

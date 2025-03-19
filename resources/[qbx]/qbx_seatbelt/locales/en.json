@@ -1,0 +1,14 @@
+{
+    "progress": {
+        "attachHarness": "正在系上赛车安全带",
+        "removeHarness": "正在解开赛车安全带"
+    },
+    "notify": {
+        "notInCar": "你不在车内"
+    },
+    "error": {
+        "seatbelton": "请先解开安全带",
+        "harnesson": "请先解开赛车安全带"
+    },
+    "toggleCommand": "切换安全带状态"
+}

@@ -1,0 +1,53 @@
+{
+    "error": {
+        "bled_out": "你已经失血过多而亡..."
+    },
+    "success": {
+        "wounds_healed": "你的伤口已经愈合！"
+    },
+    "info": {
+        "self_death": "他们自己或一名 NPC",
+        "wep_unknown": "未知",
+        "status": "状态检查",
+        "healthy": "你又完全恢复健康了！",
+        "pain_message": "你的 %s 感觉 %s",
+        "many_places": "你很多地方都疼...",
+        "bleed_alert": "你正在 %s",
+        "revive_player_a": "复活一名玩家或你自己（仅限管理员）",
+        "player_id": "玩家 ID（可能为空）",
+        "pain_level": "设置你自己或一名玩家的疼痛等级（仅限管理员）",
+        "kill": "杀死一名玩家或你自己（仅限管理员）",
+        "heal_player_a": "治疗一名玩家或你自己（仅限管理员）"
+    },
+    "states": {
+        "irritated": "感到不适",
+        "quite_painful": "相当疼痛",
+        "painful": "疼痛",
+        "really_painful": "非常疼痛",
+        "little_bleed": "少量出血...",
+        "bleed": "出血...",
+        "lot_bleed": "大量出血...",
+        "big_bleed": "大量失血..."
+    },
+    "body": {
+        "head": "头部",
+        "neck": "颈部",
+        "spine": "脊柱",
+        "upper_body": "上半身",
+        "lower_body": "下半身",
+        "left_arm": "左臂",
+        "left_hand": "左手",
+        "left_fingers": "左手手指",
+        "left_leg": "左腿",
+        "left_foot": "左脚",
+        "right_arm": "右臂",
+        "right_hand": "右手",
+        "right_fingers": "右手手指",
+        "right_leg": "右腿",
+        "right_foot": "右脚"
+    },
+    "logs": {
+        "death_log_title": "%s (%s) 已死亡",
+        "death_log_message": "%s 用 **%s** (%s) 杀死了 %s"
+    }
+}

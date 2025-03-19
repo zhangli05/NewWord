@@ -1,0 +1,60 @@
+{
+    "menu": {
+        "grade": "等级: ",
+        "expel_gang": "驱逐帮派成员",
+        "fire_employee": "解雇员工",
+        "manage_gang": "管理帮派成员",
+        "manage_employees": "管理员工",
+        "citizen_id": "公民 ID: ",
+        "id": "ID: ",
+        "hire_gang": "招募附近平民加入帮派",
+        "hire_members": "招募帮派成员",
+        "hire_civilians": "雇佣附近平民",
+        "hire_employees": "雇佣员工",
+        "check_gang": "查看你的帮派成员列表",
+        "check_employee": "查看你的员工列表",
+        "gang_menu": "帮派菜单",
+        "boss_menu": "老板菜单",
+        "gang_management": "[E] - 打开帮派管理界面",
+        "boss_management": "[E] - 打开老板管理界面",
+        "hours_in_days": "30 天内的工作时长",
+        "last_checkin": "上次签到时间",
+        "employee_status": "员工状态",
+        "on_duty": "在岗",
+        "off_duty": "离岗"
+    },
+    "error": {
+        "cant_promote": "你不能提升一个等级大于或等于你的等级的人...",
+        "cant_promote_self": "你不能提升自己的等级...",
+        "not_around": "这个人不在城里...",
+        "grade_not_exist": "这个等级似乎不存在...",
+        "couldnt_hire": "你无法雇佣这个人...",
+        "kick_yourself": "你不能驱逐自己...",
+        "fire_yourself": "你不能解雇自己...",
+        "fire_boss": "你不能解雇等级比你高的人...",
+        "you_gang_fired": "你已被从 %s 帮派驱逐！",
+        "you_job_fired": "你已被从 %s 岗位解雇！祝你好运！",
+        "unable_fire": "你无法解雇这个人...",
+        "person_doesnt_exist": "这个人似乎不存在...",
+        "gang_fired": "帮派成员已被驱逐！",
+        "job_fired": "员工已被解雇！"
+    },
+    "success": {
+        "promoted": "晋升成功！",
+        "promoted_to": "你已被晋升到 ",
+        "hired_to": "你已被雇佣到 ",
+        "hired_into": "你已将 %s 雇佣到 %s"
+    },
+    "logs": {
+        "retrieved_employees": "已获取 %s 类型组 %s 的员工信息",
+        "updated_grade": "已将公民 ID 为 %s 的人员等级从 %d 更新到 %d，所在组为 %s，类型为 %s",
+        "hired_employee": "%s | %s 已将 %s 雇佣到 %s，等级为 %s",
+        "retrieved_players": "已获取可能雇佣的玩家列表",
+        "fired_employee": "已从 %s 类型组 %s 解雇员工 %s",
+        "fired_employee_success": "%s | %s 已从 %s 解雇 %s",
+        "retrieved_boss_menus": "已获取老板菜单",
+        "registered_boss_menu": "已为组 %s 注册老板菜单",
+        "player_checkin": "玩家 %s 已为工作 %s 签到",
+        "player_unload": "玩家 %d 已退出"
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "error": {
+        "canceled": "已取消",
+        "impossible": "操作无法完成...",
+        "no_player": "附近没有玩家",
+        "no_firstaid": "你需要一个急救包",
+        "no_bandage": "你需要一个绷带",
+        "beds_taken": "床位已被占用...",
+        "possessions_taken": "你所有的物品都已被拿走...",
+        "cant_help": "你无法帮助这个人...",
+        "not_ems": "你不是急救人员或未签到"
+    },
+    "success": {
+        "revived": "你救活了一个人",
+        "healthy_player": "玩家很健康",
+        "helped_player": "你帮助了这个人",
+        "being_helped": "你正在接受帮助..."
+    },
+    "info": {
+        "civ_died": "平民死亡",
+        "civ_down": "平民倒下",
+        "civ_call": "平民呼叫",
+        "ems_down": "医生 %s 倒下",
+        "respawn_txt": "重生时间: ~r~%s~s~ 秒",
+        "respawn_revive": "按住 [~r~E~s~] %s 秒，花费 $~r~%s~s~ 重生",
+        "bleed_out": "你将在 ~r~%s~s~ 秒内失血过多而死",
+        "bleed_out_help": "你将在 ~r~%s~s~ 秒内失血过多而死，你可以获得帮助",
+        "request_help": "按 [~r~G~s~] 请求帮助",
+        "help_requested": "急救人员已收到通知",
+        "amb_plate": "救护车",
+        "heli_plate": "救援直升机",
+        "status": "状态检查",
+        "is_status": "是否 %s",
+        "healthy": "你已经完全康复了！",
+        "safe": "医院安全",
+        "ems_alert": "急救警报 - %s",
+        "mr": "先生",
+        "mrs": "女士",
+        "dr_needed": "药丸盒医院需要一名医生",
+        "dr_alert": "医生已收到通知",
+        "ems_report": "急救报告",
+        "message_sent": "消息已发送",
+        "check_health": "检查玩家的健康状况",
+        "heal_player": "治疗玩家",
+        "revive_player": "复活玩家"
+    },
+    "mail": {
+        "sender": "药丸盒医院",
+        "subject": "医院费用",
+        "message": "亲爱的 %s %s，<br /><br />兹随函附上您上一次医院就诊的费用明细。<br />最终费用为: <strong>$%s</strong><br /><br />祝您早日康复！"
+    },
+    "menu": {
+        "amb_vehicles": "救护车",
+        "status": "健康状态"
+    },
+    "text": {
+        "pstash_button": "[E] - 个人物品存放处",
+        "pstash": "个人物品存放处",
+        "onduty_button": "[E] - 开始值班",
+        "offduty_button": "[E] - 结束值班",
+        "duty": "值班/下班",
+        "armory_button": "[E] - 军械库",
+        "armory": "军械库",
+        "veh_button": "[E] - 取/存车辆",
+        "elevator_roof": "[E] - 乘坐电梯到屋顶",
+        "elevator_main": "[E] - 乘坐电梯下楼",
+        "el_roof": "乘坐电梯到屋顶"
+    },
+    "el_main": "乘坐电梯到一楼",
+    "call_doc": "[E] - 呼叫医生",
+    "call": "呼叫",
+    "check_in": "[E] 签到",
+    "check": "签到",
+    "lie_bed": "[E] - 躺到床上",
+    "bed": "躺到床上",
+    "put_bed": "将市民安置到床上",
+    "bed_out": "[E] - 下床...",
+    "alert": "警报！",
+    "progress": {
+        "ifaks": "正在拿取急救包...",
+        "bandage": "正在使用绷带...",
+        "painkillers": "正在服用止痛药...",
+        "revive": "正在复活人员...",
+        "healing": "正在治疗伤口...",
+        "checking_in": "正在签到..."
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "labels": {
+        "engine": "发动机",
+        "body": "车身",
+        "radiator": "散热器",
+        "axle": "车轴",
+        "brakes": "刹车",
+        "clutch": "离合器",
+        "fuel": "油箱",
+        "sign_in": "签到",
+        "sign_off": "签退",
+        "o_stash": "[E] 打开储物箱",
+        "h_vehicle": "[E] 隐藏车辆",
+        "g_vehicle": "[E] 取出车辆",
+        "o_menu": "[E] 打开菜单",
+        "work_v": "[E] 维修车辆",
+        "progress_bar": "正在维修 %s...",
+        "veh_status": "车辆状态：",
+        "job_blip": "汽车维修技工",
+        "stash": "维修技工储物箱",
+        "status": "状态",
+        "vehicle_title": "车辆：%s",
+        "vehicle_list": "车辆列表"
+    },
+    "lift_menu": {
+        "header_menu": "车辆选项",
+        "header_vehdc": "断开车辆连接",
+        "desc_vehdc": "将车辆从升降机上分离",
+        "header_stats": "查看状态",
+        "desc_stats": "查看车辆状态",
+        "header_parts": "车辆部件",
+        "desc_parts": "维修车辆部件",
+        "c_menu": "⬅ 关闭菜单"
+    },
+    "parts_menu": {
+        "status": "状态：%s%% / 100.0%%",
+        "menu_header": "部件菜单",
+        "repair_op": "维修：%s %sx",
+        "b_menu": "⬅ 返回菜单",
+        "d_menu": "返回部件菜单",
+        "c_menu": "⬅ 关闭菜单"
+    },
+    "nodamage_menu": {
+        "header": "无损坏",
+        "bh_menu": "返回菜单",
+        "bd_menu": "该部件没有损坏！",
+        "c_menu": "⬅ 关闭菜单"
+    },
+    "notifications": {
+        "not_enough": "你没有足够的 %s（至少需要 %sx）",
+        "not_have": "你没有",
+        "not_materials": "保险箱里材料不足",
+        "rep_canceled": "维修已取消",
+        "repaired": "已维修！",
+        "unknown": "状态未知",
+        "not_valid": "无效的车辆",
+        "not_close": "你离车辆不够近",
+        "veh_first": "你必须先进入车辆",
+        "outside": "你必须在车辆外面",
+        "wrong_seat": "你不是驾驶员或不在自行车上",
+        "not_vehicle": "你不在车辆内",
+        "progress_bar": "正在维修车辆..",
+        "process_canceled": "进程已取消"
+    },
+    "not_part": "不是有效的部件",
+    "partrep": "%s 已维修完成！"
+}

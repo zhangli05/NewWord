@@ -1,0 +1,44 @@
+{
+    "notify": {
+        "freedom": "重获自由！",
+        "new_time_by_roster": "新的服刑时间",
+        "new_time_by_roster_description": "你的服刑时间被设定为 %s 个月！",
+        "unjailed_by_roster": "你的服刑时间已清零，你被释放了！",
+        "no_access": "你没有权限使用此命令！",
+        "updated_players_time": "已将 %s 的服刑时间更新为 %s 个月",
+        "player_sent": "已将 %s 送进监狱服刑 %s 个月",
+        "time_updated_description": "你的服刑时间被设定为 %s 个月",
+        "time_updated": "服刑时间已更新",
+        "invalid_player": "无效的玩家！",
+        "lost_job": "你失去了工作！",
+        "confiscated": "你的物品被没收了！",
+        "returned_items": "你的物品已归还！",
+        "player_released": "%s 已被释放！",
+        "lifer": "你将终身监禁！",
+        "jail_time": "服刑时间",
+        "time_left": "你还剩 %s 个月的服刑时间。",
+        "no_time_left": "你已无服刑时间！",
+        "time_remaining": "剩余时间：%s 个月",
+        "completed_hack": "你成功破解了！",
+        "failed_hack": "你破解失败了！",
+        "escaped": "你越狱成功了！",
+        "checkout": "你的服刑时间已到！去办理出狱手续吧！"
+    },
+    "commands": {
+        "jail": "监禁玩家",
+        "unjail": "释放玩家",
+        "playerid": "玩家 ID",
+        "check_time": "查看你的服刑时间",
+        "prisoners_roster": "查看并管理当前囚犯"
+    },
+    "input": {
+        "jail_player": "监禁玩家",
+        "playerid": "玩家服务器 ID",
+        "jailtime": "服刑时间",
+        "months": "月（分钟）",
+        "hack_gate": "破解监狱大门",
+        "hacking": "正在破解终端...",
+        "check_time": "查看时间",
+        "prison_sentence": "**刑期：** %s  \n%s"
+    }
+}

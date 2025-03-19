@@ -1,0 +1,87 @@
+## 以下内容可编辑：
+endpoint_add_tcp "0.0.0.0:30120"
+endpoint_add_udp "0.0.0.0:30120"
+sv_maxclients 48
+set steam_webApiKey "none"
+sets tags "default, deployer, qbox"
+
+## 以下内容可选择性编辑：
+sv_licenseKey "1w2fafn0p6jziffryh1k8ncijz132tcr"
+sv_hostname "New Word"
+sets sv_projectName "New Word 由社区Life And Game 团队维护构建"
+sets sv_projectDesc "极致优化,动态经济平衡,除基础插件外所有插件自主开发,新的游戏模式。"
+sets locale "zh-cn" # 替换为你的语言和地区代码，如 en-US、pt-BR 等
+load_server_icon myLogo1.png
+set sv_enforceGameBuild 3258
+set resources_useSystemChat true
+set mysql_connection_string "mysql://root@localhost/QboxProject_DA57D7?charset=utf8mb4"
+
+# 语音配置
+exec voice.cfg
+
+# Qbox 配置
+setr qb_locale "zh"
+setr qbx:enableBridge "true" # 启用 qb-core 与 qbx_core 的桥接功能
+set qbx:enableQueue "true" # 启用 qbx_core 内置的排队系统
+set qbx:bucketLockdownMode "inactive" # 设置封锁模式为“非活动”状态（参考：https://docs.fivem.net/natives/?_0xA0F2201F）
+set qbx:discordLink "discord.gg/qbox" # 服务器 Discord 链接
+set qbx:max_jobs_per_player 1 # 每个玩家的最大工作数量
+set qbx:max_gangs_per_player 1 # 每个玩家的最大帮派数量
+set qbx:setjob_replaces "true" # 当为 true 时，SetJob 会删除玩家原有的主要工作再设置新工作
+set qbx:setgang_replaces "true" # 当为 true 时，SetGang 会删除玩家原有的主要帮派再设置新帮派
+set qbx:cleanPlayerGroups "true" # 当为 true 时，服务器启动时会清理数据库中不在配置文件中的玩家组/等级
+set qbx:allowMethodOverrides "true" # 允许资源覆盖玩家对象的现有方法
+set qbx:disableOverrideWarning "false" # 禁用资源覆盖玩家对象方法时的警告
+setr qbx:enableVehiclePersistence "false" # 启用玩家车辆的持久化（删除后自动重生）
+set qbx:acknowledge "false" # 禁用默认服务消息
+
+# 玩家加载完成后显示的欢迎消息
+setr qbx:motd "<p style='padding: 1rem; background-color: rgb(30, 30, 30); border-radius: 1rem; text-align: center;'><span style='color: rgb(40, 200, 40);'>欢迎使用 Qbox！</span><br>访问 <span id='link' style='color: rgb(100, 100, 255);' onclick='window.invokeNative(\"openUrl\", \"https://docs.qbox.re/\")'>docs.qbox.re</span> 了解更多</p><style>span#link:hover { cursor: pointer; }</style>"
+
+# illenium-appearance 本地化配置
+setr illenium-appearance:locale "zh"
+
+# Renewed-Weathersync 配置
+setr weather_disablecd true
+
+# Ox 资源配置
+exec ox.cfg
+
+# NPWD 配置
+set npwd:framework "qbx"
+set SCREENSHOT_BASIC_TOKEN insert_token
+set NPWD_AUDIO_TOKEN insert_token
+
+# 加载界面配置
+setr loadscreen:externalShutdown true
+set loadscreen:primaryColor "#f1e542"
+set loadscreen:shadowColor "#1a18077f"
+
+# 默认启动的资源
+ensure mapmanager
+ensure chat
+ensure spawnmanager
+ensure sessionmanager
+stop basic-gamemode
+ensure hardcap
+ensure baseevents
+
+# Qbox 及附加功能
+ensure ox_lib
+ensure qbx_core
+ensure ox_target
+ensure [ox]
+ensure [qbx]
+ensure [standalone]
+ensure [voice]
+
+ensure [npwd-apps]
+ensure qbx_npwd
+ensure npwd
+
+## 权限配置 ##
+add_principal identifier.fivem:226406 group.admin #mmad12
+exec permissions.cfg
+
+## 其他配置 ##
+exec misc.cfg

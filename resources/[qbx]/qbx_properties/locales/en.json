@@ -1,0 +1,72 @@
+{
+    "notify": {
+        "no_access": "无权限访问。",
+        "someone_at_door": "有人在敲门！",
+        "keyholder": " 已被添加为钥匙持有人。",
+        "added_as_keyholder": "你已被添加为钥匙持有人。",
+        "removed_as_keyholder": " 已被移除为钥匙持有人。"
+    },
+    "alert": {
+        "give_keys": "是否给此人钥匙？",
+        "apartment_selection": "公寓选择",
+        "are_you_sure": "你确定要获取 %s 吗？",
+        "want_remove_keys": "是否要从此人移除钥匙？",
+        "want_let_person_in": "是否让此人进入？",
+        "property_name": "房产名称",
+        "property_name_description": "房产的简单描述性名称",
+        "price": "价格",
+        "price_description": "购买价格或租金扣除的价格",
+        "rent_interval": "租金间隔",
+        "rent_interval_description": "租金扣除的时间间隔（小时）（使房产可租用而非购买）",
+        "add_garage": "添加车库"
+    },
+    "menu": {
+        "add_keyholder": "添加钥匙持有人",
+        "people_inside": "内部人员",
+        "keyholders": "钥匙持有人",
+        "doorbell_ringers": "按门铃者",
+        "manage_keys": "管理钥匙",
+        "doorbell": "门铃",
+        "manage_property": "管理房产",
+        "enter": "进入",
+        "ring_doorbell": "按门铃",
+        "properties": "房产",
+        "retrieve_properties": "检索拥有的房产",
+        "show_owned_properties": "仅显示你拥有的房产",
+        "interior_preview": "内部预览",
+        "start_decorating": "开始装饰",
+        "decorating_categories": "分类"
+    },
+    "instructButtons": {
+        "up": "上",
+        "down": "下",
+        "submit": "提交"
+    },
+    "keyMappings": {
+        "gizmo_translation": "设置为平移模式",
+        "gizmo_rotation": "设置为旋转模式",
+        "gizmo_select": "选择当前高亮的对象",
+        "gizmo_local": "将 gizmo 设置为相对于实体"
+    },
+    "drawtext": {
+        "stash": "[E] - 储物",
+        "exit": "[E] - 退出 | [G] - 管理",
+        "clothing": "[E] - 服装 | [G] - 套装",
+        "logout": "[E] - 登出",
+        "view_property": "[E] - 查看房产"
+    },
+    "logs": {
+        "create_property": "正在尝试创建房产。",
+        "property_created": "房产 %s 创建成功。",
+        "enter_property": "玩家 %s 进入了房产 %s。",
+        "exit_property": "玩家 %s 退出了房产 ID %s。",
+        "apartment_selected": "玩家 %s 选择了公寓 %s %s。",
+        "added_keyholder": "已将 %s 添加为房产 %s 的钥匙持有人。",
+        "removed_keyholder": "已将 %s 从房产 %s 的钥匙持有人中移除。",
+        "rent_property": "玩家 %s 租用了房产 %s。",
+        "buy_property": "玩家 %s 购买了房产 %s。",
+        "stop_renting": "玩家 %s 停止租用房产 %s。",
+        "add_decoration": "玩家 %s 为房产 %s 添加了装饰 %s。",
+        "remove_decoration": "玩家 %s 从房产 %s 移除了装饰 %s。"
+    }
+}

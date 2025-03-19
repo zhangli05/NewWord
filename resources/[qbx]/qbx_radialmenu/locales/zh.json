@@ -1,0 +1,56 @@
+{
+  "error": {
+    "no_people_nearby": "附近没有玩家。",
+    "no_vehicle_nearby": "附近没有可翻转的车辆。",
+    "no_vehicle_found": "未找到车辆。",
+    "extra_deactivated": "额外功能 %s 已被停用。",
+    "extra_not_present": "此车辆没有额外功能 %s。",
+    "not_driver": "你不是这辆车的驾驶员。",
+    "vehicle_driving_fast": "这辆车速度太快。",
+    "seat_occupied": "这个座位已被占用。",
+    "race_harness_on": "你佩戴了赛车安全带，无法切换座位。",
+    "obj_not_found": "无法创建请求的对象。",
+    "not_near_ambulance": "你不在救护车附近。",
+    "far_away": "你距离太远。",
+    "not_kidnapped": "你尚未绑架此人。",
+    "trunk_closed": "后备箱已关闭。",
+    "cant_enter_trunk": "你无法进入这个后备箱。",
+    "already_in_trunk": "你已经在后备箱中。",
+    "someone_in_trunk": "后备箱中已经有人了。",
+    "cancel_task": "已取消"
+  },
+  "progress": {
+    "flipping_car": "正在翻转车辆..."
+  },
+  "success": {
+    "extra_activated": "额外功能 %s 已激活。",
+    "entered_trunk": "你已进入后备箱。"
+  },
+  "info": {
+    "no_variants": "此选项似乎没有变体。",
+    "wrong_ped": "此角色模型不允许此选项。",
+    "nothing_to_remove": "你没有任何可移除的物品。",
+    "already_wearing": "你已经穿戴了此物品。",
+    "switched_seats": "你现在坐在 %s。"
+  },
+  "general": {
+    "command_description": "打开径向菜单",
+    "get_out_trunk_button": "[E] 离开后备箱",
+    "close_trunk_button": "[G] 关闭后备箱",
+    "open_trunk_button": "[G] 打开后备箱",
+    "getintrunk_command_desc": "进入后备箱",
+    "putintrunk_command_desc": "将玩家放入后备箱",
+    "gang_radial": "帮派",
+    "job_radial": "工作"
+  },
+  "options": {
+    "flip": "翻转车辆",
+    "vehicle": "车辆",
+    "emergency_button": "紧急按钮",
+    "driver_seat": "驾驶座",
+    "passenger_seat": "副驾驶座",
+    "other_seats": "其他座位",
+    "rear_left_seat": "左后座",
+    "rear_right_seat": "右后座"
+  }
+}

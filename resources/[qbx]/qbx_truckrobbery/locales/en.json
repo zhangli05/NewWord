@@ -1,0 +1,31 @@
+{
+    "error": {
+        "activation_cost": "你需要有 $%s 才能接受这个任务...",
+        "get_out_water": "你必须先离开水面才能放置炸弹...",
+        "truck_moving": "车辆移动时你无法实施抢劫...",
+        "missing_bomb": "看起来你没有炸弹...",
+        "active_police": "你至少需要 %s 名警察执勤才能激活此任务...",
+        "already_active": "已经有人正在执行任务了...",
+        "no_truck_spawned": "看起来在生成运钞车时出现了问题...",
+        "truck_escaped": "运钞车逃脱了！任务失败。"
+    },
+    "success": {
+        "looted": "你已成功抢劫了运钞车"
+    },
+    "mission": {
+        "ask_for_mission": "请求任务",
+        "sender": "老大",
+        "subject": "新目标",
+        "message": "看来你想赚点钱，是吧？很好。现在给你发送目标位置。你最好快点，免得别人先抢了这辆运钞车！"
+    },
+    "info": {
+        "plant_bomb": "放置炸弹",
+        "planting_bomb": "正在放置炸弹...",
+        "bomb_timer": "炸弹定时 %s 秒！快躲开！",
+        "loot_truck": "抢劫运钞车",
+        "looting_truck": "正在抢劫运钞车...",
+        "alert_title": "运钞车抢劫警报",
+        "alert_desc": "一辆运钞车正在遭到抢劫！",
+        "truck_spotted": "运钞车已被发现！在其他人之前赶到那里！"
+    }
+}

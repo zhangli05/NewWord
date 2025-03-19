@@ -1,0 +1,20 @@
+{
+    "error": {
+        "not_enough_money": "你没有足够的钱...",
+        "invalid_type": "这不是有效的证件类型..."
+    },
+    "success": {
+        "item_recieved": "你已收到你的 ",
+        "new_job": "恭喜你获得新工作！"
+    },
+    "info": {
+        "cityhall": "市政厅",
+        "open_cityhall": "[E] 打开市政厅",
+        "target_open_cityhall": "打开市政厅",
+        "identity": "身份证明",
+        "employment": "就业信息",
+        "obtain_license_identity": "获取你的证件",
+        "select_job": "选择新工作",
+        "price": "价格: $%s"
+    }
+}

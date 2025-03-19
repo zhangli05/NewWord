@@ -1,0 +1,19 @@
+{
+    "error": {
+        "no_police": "警察数量不足（需要 %s 名）",
+        "process_canceled": "流程已取消..",
+        "lockpick_broken": "你弄坏了撬锁工具"
+    },
+    "text": {
+        "register_empty": "收银机是空的",
+        "try_combination": "~g~E~w~ - 尝试密码组合",
+        "safe_opened": "保险箱已打开",
+        "emptying_the_register": "正在清空收银机..",
+        "safe_code": "保险箱密码: ",
+        "value": "价值: $%s"
+    },
+    "alert": {
+        "register": "有人正在撬收银机！",
+        "safe": "有人正在破解保险箱！"
+    }
+}

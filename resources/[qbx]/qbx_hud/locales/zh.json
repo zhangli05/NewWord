@@ -1,0 +1,33 @@
+{
+    "notify": {
+        "hud_settings_loaded": "HUD 设置已加载！",
+        "hud_restart": "HUD 正在重启！",
+        "hud_start": "HUD 已启动！",
+        "hud_command_info": "此命令将重置你当前的 HUD 设置！",
+        "load_square_map": "方形地图正在加载...",
+        "loaded_square_map": "方形地图已加载！",
+        "load_circle_map": "圆形地图正在加载...",
+        "loaded_circle_map": "圆形地图已加载！",
+        "cinematic_on": "电影模式已开启！",
+        "cinematic_off": "电影模式已关闭！",
+        "engine_on": "发动机已启动！",
+        "engine_off": "发动机已关闭！",
+        "low_fuel": "燃油液位低！",
+        "access_denied": "你没有权限！",
+        "stress_gain": "感觉压力更大了！",
+        "stress_removed": "感觉更放松了！"
+    },
+    "info": {
+        "open_menu": "打开菜单"
+    },
+    "commands": {
+        "cash": "现金",
+        "bank": "银行",
+        "dev": "开发者",
+        "help": {
+            "cash": "查看现金余额",
+            "bank": "查看银行余额",
+            "dev": "启用/禁用开发者模式"
+        }
+    }
+}

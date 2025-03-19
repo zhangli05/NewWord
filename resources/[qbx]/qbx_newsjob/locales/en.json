@@ -1,0 +1,28 @@
+{
+    "error": {
+        "cant_spawn_vehicle": "无法生成车辆",
+        "no_access": "无权限使用此命令"
+    },
+    "info": {
+        "weazle_overlay": "Weazel新闻覆盖层: [E]  \n电影覆盖层: [M]",
+        "weazel_news_vehicles": "Weazel新闻车辆",
+        "close_menu": "⬅ 关闭菜单",
+        "weazel_news_helicopters": "Weazel新闻直升机",
+        "store_vehicle": "[E] - 存储车辆",
+        "vehicles": "[E] - 车辆",
+        "store_helicopters": "[E] - 存储直升机",
+        "helicopters": "[E] - 直升机",
+        "enter": "[E] - 进入",
+        "go_outside": "[E] - 室外活动",
+        "roof_enter": "[E] - 屋顶进入",
+        "roof_exit": "[E] - 屋顶退出",
+        "breaking_news": "突发新闻",
+        "title_breaking_news": "Weazel今日独家 - 突发新闻",
+        "bottom_breaking_news": "实时为您带来最新动态",
+        "newscam": "拾取新闻摄像机",
+        "newsmic": "拾取新闻麦克风",
+        "newsbmic": "拾取吊杆麦克风",
+        "news_plate": "WZNW",
+        "blip_name": "Weazel新闻"
+    }
+}

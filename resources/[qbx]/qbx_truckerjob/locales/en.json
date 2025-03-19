@@ -1,0 +1,40 @@
+{
+    "error": {
+        "no_deposit": "需要支付 $%s 押金",
+        "cancelled": "已取消",
+        "vehicle_not_correct": "这不是一辆商用车辆！",
+        "no_driver": "你必须是驾驶员才能进行此操作",
+        "no_work_done": "你还没有完成任何送货任务",
+        "backdoors_not_open": "车辆的后门未打开",
+        "get_out_vehicle": "你需要下车才能执行此操作",
+        "too_far_from_trunk": "你需要从车辆后备箱拿取箱子",
+        "too_far_from_delivery": "你需要离送货点更近一些",
+        "too_many_rents": "你最近租过车了，请几分钟后再来"
+    },
+    "success": {
+        "paid_with_cash": "已用现金支付 $%s 押金",
+        "paid_with_bank": "已从银行账户支付 $%s 押金",
+        "refund_to_cash": "已退还 $%s 押金",
+        "you_earned": "你已赚取 $%s",
+        "payslip_time": "你已访问完所有商店，是时候领取工资了！"
+    },
+    "menu": {
+        "header": "可用车辆",
+        "close_menu": "⬅ 关闭菜单"
+    },
+    "mission": {
+        "store_reached": "已到达商店。按 [E] 从后备箱拿取一个箱子并送到标记处。",
+        "take_box": "拿取一箱商品",
+        "deliver_box": "交付一箱商品",
+        "another_box": "拿取下一个箱子",
+        "goto_next_point": "你已交付所有商品，前往下一个送货点",
+        "return_to_station": "你已交付所有商品，返回站点",
+        "job_completed": "你已完成路线，请领取工资"
+    },
+    "info": {
+        "pickup_paycheck": "[E] - 领取工资",
+        "store_vehicle": "[E] - 停放车辆",
+        "vehicles": "[E] - 车辆",
+        "deliver_to_store": "将箱子送到商店"
+    }
+}

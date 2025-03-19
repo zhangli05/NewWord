@@ -1,0 +1,11 @@
+{
+    "wash_prompt": "花 $%s 洗车",
+    "wash_prompt_dt": "~g~E~w~ - 花 $%s 洗车",
+    "washing": "车辆正在清洗中...",
+    "canceled": "已取消...",
+    "not_dirty": "车辆不脏",
+    "not_available": "洗车服务不可用...",
+    "no_money": "你没有足够的钱...",
+    "reason": "车辆已清洗",
+    "label": "洗车服务"
+}

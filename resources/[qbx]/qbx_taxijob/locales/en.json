@@ -1,0 +1,30 @@
+{
+    "error": {
+        "already_mission": "你已经在执行一个NPC任务了",
+        "not_in_taxi": "你不在出租车里",
+        "missing_meter": "这辆车没有出租车计价器",
+        "no_vehicle": "你不在车辆内",
+        "not_active_meter": "出租车计价器未开启",
+        "no_meter_sight": "视线范围内没有出租车计价器"
+    },
+    "success": {},
+    "info": {
+        "person_was_dropped_off": "乘客已送达！",
+        "npc_on_gps": "NPC在你的GPS上已标记",
+        "go_to_location": "将NPC送到指定地点",
+        "vehicle_parking": "[E] - 停车",
+        "job_vehicles": "[E] - 工作车辆",
+        "drop_off_npc": "[E] - 放下NPC",
+        "call_npc": "[E] - 呼叫NPC",
+        "blip_name": "市中心出租车",
+        "taxi_label_1": "标准出租车",
+        "no_spawn_point": "找不到放置出租车的位置",
+        "taxi_returned": "出租车已停好",
+        "request_taxi": "[E] - 呼叫出租车",
+        "request_taxi_target": "呼叫出租车"
+    },
+    "menu": {
+        "taxi_menu_header": "出租车车辆",
+        "close_menu": "⬅ 关闭菜单"
+    }
+}

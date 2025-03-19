@@ -1,0 +1,25 @@
+{
+    "success": {
+        "you_have_been_clocked_in": "你已打卡上班"
+    },
+    "text": {
+        "point_enter_warehouse": "[E] - 进入仓库",
+        "enter_warehouse": "进入仓库",
+        "exit_warehouse": "退出仓库",
+        "point_exit_warehouse": "[E] - 退出仓库",
+        "clock_out": "打卡下班",
+        "point_clock_out": "[E] - 打卡下班",
+        "clock_in": "打卡上班",
+        "point_clock_in": "[E] - 打卡上班",
+        "hand_in_package": "提交包裹",
+        "point_hand_in_package": "[E] - 提交包裹",
+        "get_package": "领取包裹",
+        "point_get_package": "[E] - 领取包裹",
+        "picking_up_the_package": "正在拾取包裹",
+        "unpacking_the_package": "正在拆解包裹"
+    },
+    "error": {
+        "you_have_clocked_out": "你已打卡下班",
+        "overweight_check": "你无法携带更多物品"
+    }
+}

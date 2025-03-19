@@ -1,0 +1,29 @@
+{
+    "error": {
+        "negative": "试图出售负数数量的物品？",
+        "no_melt": "你没有给我任何可以熔炼的物品...",
+        "no_items": "物品数量不足"
+    },
+    "success": {
+        "sold": "你已出售 %s x %s，获得 $%s",
+        "items_received": "你获得了 %s x %s"
+    },
+    "info": {
+        "title": "当铺",
+        "subject": "熔炼物品",
+        "message": "我们已经完成了物品的熔炼。你可以随时来领取。",
+        "open_pawn": "打开当铺",
+        "sell": "出售物品",
+        "sell_pawn": "向当铺出售物品",
+        "melt": "熔炼物品",
+        "melt_pawn": "打开熔炼商店",
+        "melt_pickup": "领取熔炼物品",
+        "pawn_closed": "当铺已关闭。请在 %s:00 AM - %s:00 PM 之间再来。",
+        "sell_items": "出售价格 $%s",
+        "back": "⬅ 返回",
+        "melt_item": "熔炼 %s",
+        "max": "最大数量 %s",
+        "submit": "熔炼",
+        "melt_wait": "给我 %s 分钟，我会把你的物品熔炼好"
+    }
+}

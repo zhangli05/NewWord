@@ -1,0 +1,23 @@
+{
+    "error": {
+        "process_canceled": "处理已取消",
+        "plant_has_died": "植物已死亡\n按 ~r~E~w~ 移除植物",
+        "cant_place_here": "此处无法放置",
+        "not_safe_here": "此地不安全，请前往您的房屋",
+        "not_need_nutrition": "植物无需营养补给",
+        "this_plant_no_longer_exists": "该植物已不存在？",
+        "house_not_found": "房屋未找到",
+        "you_dont_have_enough_resealable_bags": "可密封背包不足"
+    },
+    "text": {
+        "sort": "分类：",
+        "harvest_plant": "按 ~g~E~w~ 收获植物",
+        "nutrition": "营养：",
+        "health": "健康：",
+        "harvesting_plant": "正在收获植物",
+        "planting": "种植中",
+        "feeding_plant": "喂养植物",
+        "the_plant_has_been_harvested": "植物已收获",
+        "removing_the_plant": "正在移除植物"
+    }
+}

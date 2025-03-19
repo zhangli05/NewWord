@@ -1,0 +1,1 @@
+“# NewWord” initgit add README.mdgit commit -m “first commit”git branch -M maingit remote add origin https://github.com/zhangli05/NewWord.gitgit push -u origin main

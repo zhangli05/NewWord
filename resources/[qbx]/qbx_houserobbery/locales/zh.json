@@ -1,0 +1,16 @@
+{
+    "text": {
+        "enter_house": "[E] - 进入房屋",
+        "enter_requirements": "撬锁器 | 螺丝刀套装",
+        "leave_house": "[E] - 离开房屋",
+        "search": "[E] - 四处搜寻",
+        "pickup": "[E] - 拾取 %s"
+    },
+    "notify": {
+        "no_police": "警察数量不足（需要 %s 名）",
+        "fail_skillcheck": "技能检查失败",
+        "success_skillcheck": "技能检查成功",
+        "busy": "有人正在处理此事",
+        "police_alert": "自有房产附近有可疑活动"
+    }
+}

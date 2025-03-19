@@ -1,0 +1,16 @@
+{
+    "error": {
+        "not_standing_up": "你需要站在坚实的地面上才能穿上这个...",
+        "need_otube": "你需要补充氧气！找个备用的空气供应装置！",
+        "underwater": "你不能在水下做这个..."
+    },
+    "success": {
+        "took_out": "你已经脱下了装备！",
+        "tube_filled": "你已成功为你的气罐补充了空气！"
+    },
+    "info": {
+        "put_suit": "正在穿上你的潜水服...",
+        "pullout_suit": "正在脱下你的潜水服...",
+        "filling_air": "正在充气..."
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "error": {
+        "scrap_owned": "你不能拆解玩家拥有的车辆。",
+        "cannot_scrap": "这辆车不能被拆解。",
+        "not_driver": "你不是驾驶员",
+        "scrap_vehicle": "你现在不被允许拆解车辆",
+        "canceled": "已取消"
+    },
+    "text": {
+        "disassemble_vehicle": "[E] - 拆解车辆",
+        "email_list": "[E] - 发送车辆列表邮件",
+        "email_list_target": "发送车辆列表邮件",
+        "scrap_vehicle": "正在拆解车辆",
+        "email_sent": "你将在几秒钟后收到车辆列表邮件"
+    },
+    "email": {
+        "sender": "特纳汽车拆解厂",
+        "subject": "车辆列表",
+        "message": "你只能拆解有限数量的车辆。<br />只要你不打扰我，你可以保留拆解得到的所有东西。<br /><br /><strong>车辆列表：</strong><br />"
+    }
+}

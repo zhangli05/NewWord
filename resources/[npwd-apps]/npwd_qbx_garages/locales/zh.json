@@ -1,0 +1,9 @@
+{
+    "notification": {
+        "marked": "车辆已在地图上标记",
+        "cannot_locate": "无法定位此车辆"
+    },
+    "states": {
+        "garage_unknown": "未知车库"
+    }
+}

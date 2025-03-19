@@ -1,0 +1,31 @@
+{
+    "success": {
+        "success_message": "成功",
+        "fuses_are_blown": "保险丝已熔断",
+        "door_has_opened": "门已打开"
+    },
+    "error": {
+        "cancel_message": "已取消",
+        "safe_too_strong": "看起来保险箱的锁太坚固了...",
+        "missing_item": "你缺少一件物品...",
+        "bank_already_open": "银行已经开门了...",
+        "minimum_police_required": "至少需要 %s 名警察",
+        "security_lock_active": "安全锁已激活，目前无法开门",
+        "wrong_type": "%s 接收到的参数 '%s' 类型错误\n接收到的类型: %s\n接收到的值: %s\n 期望的类型: %s",
+        "fuses_already_blown": "保险丝已经熔断了...",
+        "event_trigger_wrong": "%s%s 在某些条件不满足时被触发，来源: %s",
+        "missing_ignition_source": "你缺少一个点火源"
+    },
+    "general": {
+        "breaking_open_safe": "正在撬开保险箱...",
+        "connecting_hacking_device": "正在连接黑客设备...",
+        "fleeca_robbery_alert": "弗莱卡银行抢劫未遂",
+        "paleto_robbery_alert": "布莱因县储蓄银行抢劫未遂",
+        "pacific_robbery_alert": "太平洋标准银行抢劫未遂",
+        "break_safe_open_option_target": "撬开保险箱",
+        "break_safe_open_option_drawtext": "[E] 撬开保险箱",
+        "validating_bankcard": "正在验证银行卡...",
+        "thermite_detonating_in_seconds": "铝热剂将在 %s 秒后爆炸",
+        "bank_robbery_police_call": "10 - 90: 银行抢劫"
+    }
+}

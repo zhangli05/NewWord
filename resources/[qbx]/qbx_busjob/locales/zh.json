@@ -1,0 +1,22 @@
+{
+    "error": {
+        "already_driving_bus": "你已经在驾驶一辆公交车了",
+        "not_in_bus": "你不在公交车内",
+        "one_bus_active": "你一次只能驾驶一辆公交车",
+        "drop_off_passengers": "在停止工作前，请先让乘客下车",
+        "exploit_attempt": "检测到作弊尝试",
+        "failed_to_spawn": "公交车生成失败"
+    },
+    "info": {
+        "dropped_off": "乘客已下车",
+        "bus": "标准公交车",
+        "goto_busstop": "前往公交站点",
+        "busstop_text": "[E] - 公交站点",
+        "bus_plate": "公交",
+        "bus_depot": "公交停车场",
+        "bus_stop_work": "[E] - 停止工作",
+        "bus_job_vehicles": "[E] - 工作车辆",
+        "bus_header": "公交车辆",
+        "bus_job": "公交工作"
+    }
+}

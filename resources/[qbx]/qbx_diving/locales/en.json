@@ -1,0 +1,21 @@
+{
+    "error": {
+        "canceled": "已取消",
+        "no_coral": "你没有可出售的珊瑚..."
+    },
+    "info": {
+        "collecting_coral": "正在收集珊瑚",
+        "diving_area": "潜水区域",
+        "collect_coral": "收集珊瑚",
+        "collect_coral_dt": "[E] - 收集珊瑚",
+        "checking_pockets": "正在检查库存，查看是否有可出售的珊瑚...",
+        "sell_coral": "出售珊瑚",
+        "sell_coral_dt": "[E] - 出售珊瑚"
+    },
+    "logs": {
+        "tried_sell": "玩家试图出售珊瑚，但没有可出售的",
+        "sell_coral": "玩家出售珊瑚获得了 %s 现金",
+        "collect_coral": "玩家在索引 %s 处拾取了珊瑚",
+        "new_location": "新的珊瑚位置已设置为索引 %s"
+    }
+}

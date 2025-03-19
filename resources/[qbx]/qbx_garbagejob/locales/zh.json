@@ -1,0 +1,54 @@
+{
+    "error": {
+        "cancel": "已取消",
+        "no_truck": "你没有垃圾车！",
+        "not_enough": "钱不够（需要 %s）",
+        "too_far": "你离投放点太远了",
+        "early_finish": "由于提前完成（已完成：%s  总数：%s），你的押金将不予退还。",
+        "never_clocked_on": "你从未打卡上班！",
+        "all_occupied": "所有停车位都已被占用"
+    },
+    "success": {
+        "clear_routes": "已清除用户的路线，他们之前存储了 %s 条路线",
+        "pay_slip": "你获得了 $%s，你的工资单 %s 已存入你的银行账户！"
+    },
+    "target": {
+        "talk": "与垃圾工交谈",
+        "grab_garbage": "捡起垃圾袋",
+        "dispose_garbage": "处理垃圾袋"
+    },
+    "menu": {
+        "header": "垃圾工作主菜单",
+        "collect": "领取工资",
+        "return_collect": "归还垃圾车并在此领取工资！",
+        "route": "请求路线",
+        "request_route": "请求一条垃圾清理路线"
+    },
+    "info": {
+        "payslip_collect": "[E] - 领取工资单",
+        "payslip": "工资单",
+        "not_enough": "你没有足够的钱支付押金……押金费用为 $%s",
+        "deposit_paid": "你已支付 $%s 押金！",
+        "no_deposit": "你没有为这辆车支付押金……",
+        "truck_returned": "垃圾车已归还，领取你的工资单以拿回工资和押金！",
+        "bags_left": "还剩下 %s 个垃圾袋！",
+        "bags_still": "那边还有 %s 个垃圾袋！",
+        "all_bags": "所有垃圾袋都已清理完毕，前往下一个地点！",
+        "depot_issue": "垃圾站出现问题，请立即返回！",
+        "done_working": "你已完成工作！返回垃圾站。",
+        "started": "你已开始工作，地点已在 GPS 上标记！",
+        "grab_garbage": "[E] 捡起一个垃圾袋",
+        "stand_grab_garbage": "站在这里捡起一个垃圾袋。",
+        "dispose_garbage": "[E] 处理垃圾袋",
+        "progressbar": "正在把袋子放进垃圾车里……",
+        "garbage_in_truck": "把袋子放进你的垃圾车里……",
+        "stand_here": "站在这里……",
+        "found_crypto": "你在地上发现了一个加密棒",
+        "payout_deposit": "(+ $%s 押金)",
+        "store_truck": "[E] - 停放垃圾车",
+        "get_truck": "[E] - 领取垃圾车",
+        "picking_bag": "正在捡起垃圾袋……",
+        "talk": "[E] 与垃圾工交谈",
+        "stops_left": "你还剩下 %s 个站点！"
+    }
+}

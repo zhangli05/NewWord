@@ -1,0 +1,22 @@
+{
+    "error": {
+        "invalid_items": "您没有正确的工具！"
+    },
+    "progress": {
+        "pick_grapes": "正在采摘葡萄...",
+        "process_wine": "正在酿造葡萄酒",
+        "process_juice": "正在榨取葡萄汁"
+    },
+    "task": {
+        "start_task": "[E] 开始任务",
+        "vineyard_processing": "[E] 葡萄园加工",
+        "cancel_task": "任务已取消"
+    },
+    "menu": {
+        "title": "葡萄园加工",
+        "process_wine_title": "酿造葡萄酒",
+        "process_juice_title": "榨取葡萄汁",
+        "wine_items_needed": "所需物品：葡萄汁\n需要数量：%s",
+        "juice_items_needed": "所需物品：葡萄\n需要数量：%s"
+    }
+}

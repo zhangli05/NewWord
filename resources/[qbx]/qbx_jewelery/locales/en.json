@@ -1,0 +1,17 @@
+{
+    "text": {
+        "electrical": "[E] - 破解门锁",
+        "electricalTarget": "破解门锁",
+        "cabinet": "[E] - 砸开柜子",
+        "cabinetTarget": "砸开柜子"
+    },
+    "notify": {
+        "busy": "已经有人在处理了",
+        "cabinetdone": "这个柜子已经被处理过了",
+        "noweapon": "你手中没有武器",
+        "noitem": "你没有携带 %s",
+        "police": "已报告梵吉利科珠宝店抢劫事件",
+        "nopolice": "警力不足（需要 %s 名警察）",
+        "reward_dropped": "你掉落了一些珠宝"
+    }
+}

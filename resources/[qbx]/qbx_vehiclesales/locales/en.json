@@ -1,0 +1,48 @@
+{
+    "error": {
+        "not_your_vehicle": "这不是你的车辆。",
+        "vehicle_does_not_exist": "车辆不存在",
+        "not_enough_money": "你没有足够的钱",
+        "finish_payments": "你必须先付清这辆车的款项，才能出售它。",
+        "no_space_on_lot": "停车场没有空间停放你的车了！",
+        "not_in_veh": "你不在车辆内！",
+        "not_for_sale": "这辆车不出售！"
+    },
+    "menu": {
+        "view_contract": "查看合同",
+        "view_contract_int": "[E] 查看合同",
+        "sell_vehicle": "出售车辆",
+        "sell_vehicle_help": "将车辆出售给其他市民！",
+        "sell_back": "退回车辆！",
+        "sell_back_help": "以折扣价直接将你的车退回！",
+        "interaction": "[E] 出售车辆"
+    },
+    "success": {
+        "sold_car_for_price": "你已以 $%s 的价格出售了你的车",
+        "car_up_for_sale": "你的车已挂牌出售！价格 - $%s",
+        "vehicle_bought": "车辆已售出"
+    },
+    "info": {
+        "confirm_cancel": "~g~Y~w~ - 确认 / ~r~N~w~ - 取消 ~g~",
+        "vehicle_returned": "你的车辆已归还",
+        "used_vehicle_lot": "二手车停车场",
+        "sell_vehicle_to_dealer": "[~g~E~w~] - 以 ~g~$%s 的价格将车辆出售给经销商",
+        "view_contract": "[~g~E~w~] - 查看车辆合同",
+        "cancel_sale": "[~r~G~w~] - 取消车辆出售",
+        "model_price": "%s，价格：~g~$%s",
+        "are_you_sure": "你确定不再想出售你的车辆了吗？",
+        "yes_no": "[~g~7~w~] - 是 | [~r~8~w~] - 否",
+        "place_vehicle_for_sale": "[~g~E~w~] - 车主挂牌出售车辆"
+    },
+    "charinfo": {
+        "firstname": "未知",
+        "lastname": "未知",
+        "account": "账户信息未知。",
+        "phone": "电话号码未知。"
+    },
+    "mail": {
+        "sender": "拉里房车销售公司",
+        "subject": "你已售出一辆车！",
+        "message": "你通过出售你的 %s 获得了 $%s。"
+    }
+}

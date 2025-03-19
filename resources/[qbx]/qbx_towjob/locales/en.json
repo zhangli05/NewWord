@@ -1,0 +1,40 @@
+{
+    "error": {
+        "finish_work": "请先完成所有工作",
+        "vehicle_not_correct": "这不是正确的车辆",
+        "failed": "你失败了",
+        "not_towing_vehicle": "你必须在拖车车辆内",
+        "too_far_away": "你距离太远了",
+        "no_work_done": "你还没有完成任何工作",
+        "no_deposit": "需要支付 $%s 押金"
+    },
+    "success": {
+        "paid_with_cash": "已用现金支付 $%s 押金",
+        "paid_with_bank": "已从银行账户支付 $%s 押金",
+        "refund_to_cash": "已退还 $%s 押金到现金",
+        "you_earned": "你赚取了 $%s"
+    },
+    "menu": {
+        "header": "可用拖车",
+        "close_menu": "⬅ 关闭菜单"
+    },
+    "mission": {
+        "delivered_vehicle": "你已交付一辆车辆",
+        "get_new_vehicle": "可以去取一辆新的车辆了",
+        "towing_vehicle": "正在吊起车辆...",
+        "goto_depot": "将车辆送到海斯仓库",
+        "vehicle_towed": "车辆已被拖走",
+        "untowing_vehicle": "卸下车辆",
+        "vehicle_takenoff": "车辆已卸下"
+    },
+    "info": {
+        "tow": "将汽车放置在平板拖车后部",
+        "toggle_npc": "切换 NPC 任务",
+        "skick": "尝试利用漏洞作弊"
+    },
+    "label": {
+        "payslip": "工资单",
+        "vehicle": "车辆",
+        "npcz": "NPC 区域"
+    }
+}

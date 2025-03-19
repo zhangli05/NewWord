@@ -1,0 +1,31 @@
+{
+    "error": {
+        "no_space": "该车位已被其他车辆占用。",
+        "no_access": "你没有权限进入这个车库。",
+        "no_vehicles": "你目前在该地点没有车辆……",
+        "not_impound": "你的车辆未被扣押。",
+        "not_owned": "这辆车无法存放。",
+        "not_correct_type": "你不能在此处存放此类车辆。",
+        "not_enough": "钱不够。",
+        "vehicle_occupied": "车辆内有人，无法存放。",
+        "in_vehicle": "你已经在车内了……",
+        "spawn_in_progress": "请等待你的车辆送达……"
+    },
+    "success": {
+        "vehicle_parked": "车辆已存放。"
+    },
+    "menu": {
+        "information": "信息",
+        "description": "名称：%s\n车牌：%s\n扣押费用：$%s",
+        "body": "车身",
+        "engine": "引擎",
+        "fuel": "燃油",
+        "take_out": "取出车辆",
+        "veh_impounded": "你的车辆已被警方扣押。"
+    },
+    "info": {
+        "car_e": "按 E - 打开车库",
+        "park_e": "按 E - 存放车辆",
+        "impound_e": "按 E - 打开扣押场"
+    }
+}

@@ -1,0 +1,54 @@
+{
+  "addcom": {
+    "addkeys": "添加钥匙",
+    "addkeys_help": "为某人添加车辆钥匙。",
+    "addkeys_id": "玩家 ID",
+    "addkeys_id_help": "玩家的 ID",
+    "addkeys_plate": "车牌号",
+    "addkeys_plate_help": "车辆的车牌号",
+    "givekeys": "交出钥匙",
+    "givekeys_help": "将钥匙交给某人。如果不指定 ID，则交给最近的人或车内所有人。",
+    "givekeys_id": "玩家 ID",
+    "givekeys_id_help": "玩家的 ID",
+    "givekeys_plate": "车牌号",
+    "givekeys_plate_help": "车辆的车牌号",
+    "removekeys": "移除钥匙",
+    "removekeys_help": "移除某人的车辆钥匙。",
+    "removekeys_id": "玩家 ID",
+    "removekeys_id_help": "玩家的 ID",
+    "removekeys_plate": "车牌号",
+    "removekeys_plate_help": "车辆的车牌号"
+  },
+  "info": {
+    "engine": "切换引擎",
+    "search_keys_dispatch": "[H] - 寻找钥匙",
+    "search_keys": "寻找车辆钥匙",
+    "toggle_locks": "切换车辆门锁",
+    "vehicle_theft": "正在进行车辆盗窃。类型： "
+  },
+  "notify": {
+    "carjack_failed": "劫车失败！",
+    "failed_lockedpick": "你撬锁失败了。",
+    "failed_keys": "你没能找到钥匙，感到很沮丧。",
+    "fpid": "请填写玩家 ID 和车牌号参数",
+    "gave_keys": "你交出了钥匙。",
+    "added_keys": "你给玩家 %s 复制了车辆 %s 的钥匙！",
+    "keys_taken": "你拿到了车辆的钥匙！",
+    "keys_removed": "你丢失了车辆的钥匙！",
+    "no_keys": "你没有这辆车的钥匙。",
+    "not_near": "附近没有可以交钥匙的人",
+    "vehicle_not_near": "距离车辆不够近",
+    "vehicle_locked": "车辆已锁定！",
+    "vehicle_lockedpick": "你成功撬开了车门锁！",
+    "vehicle_unlocked": "车辆已解锁！",
+    "removed_keys": "玩家 %s 的车牌号为 %s 的车辆钥匙已被移除！",
+    "removed_keys_player": "你车牌号为 %s 的车辆钥匙已被移除！",
+    "player_offline": "该玩家未在线！",
+    "vehicle_is_unlocked": "车辆已经解锁了！"
+  },
+  "progress": {
+    "attempting_carjack": "正在尝试劫车...",
+    "searching_keys": "正在寻找车钥匙...",
+    "takekeys": "正在从尸体上拿取钥匙..."
+  }
+}
