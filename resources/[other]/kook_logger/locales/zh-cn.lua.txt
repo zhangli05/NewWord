@@ -1,0 +1,6 @@
+Locales['zh-cn'] = {
+    ['player_connect'] = '%s 已连接到服务器。',
+    ['player_disconnect'] = '%s 已断开与服务器的连接。原因: %s',
+    ['player_death'] = '%s 被 %s 击杀。原因: %s',
+    ['player_chat'] = '%s 说: %s'
+}
